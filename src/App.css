@@ -1,0 +1,36 @@
+.App {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+.maintitle, .subtitle {
+  font-size: 5vw;
+  font-weight: bold;
+  letter-spacing: 20px; 
+}
+body {
+  background-image: url('https://i.pinimg.com/originals/18/4b/8b/184b8bd21f7dd8a01669f9a31c1a2d54.jpg');
+}
+
+#navbar{
+  position: sticky;
+  z-index: 1000; 
+  top: 0;
+}
+img {
+  width: 400px; /* Set the width to your desired size */
+  height: auto;
+}
+
+.Collection {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.carousel-indicators {
+  display: none;
+}
+
+.Shop{
+  padding: 100px;
+}
