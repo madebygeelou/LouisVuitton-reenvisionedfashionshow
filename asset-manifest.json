@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LouisVuitton-reenvisionedfashionshow/static/css/main.a9790450.css",
+    "main.js": "/LouisVuitton-reenvisionedfashionshow/static/js/main.30b3b63a.js",
+    "static/js/453.d84458bc.chunk.js": "/LouisVuitton-reenvisionedfashionshow/static/js/453.d84458bc.chunk.js",
+    "index.html": "/LouisVuitton-reenvisionedfashionshow/index.html",
+    "main.a9790450.css.map": "/LouisVuitton-reenvisionedfashionshow/static/css/main.a9790450.css.map",
+    "main.30b3b63a.js.map": "/LouisVuitton-reenvisionedfashionshow/static/js/main.30b3b63a.js.map",
+    "453.d84458bc.chunk.js.map": "/LouisVuitton-reenvisionedfashionshow/static/js/453.d84458bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9790450.css",
+    "static/js/main.30b3b63a.js"
+  ]
+}
